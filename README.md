@@ -87,10 +87,10 @@ After successful installation of `gh cli`, it is now time to start the task at h
 
 ```bash
 # Clone the repo 
-git clone https://github.com/Imsurajkr/cleancodeworkshop.git
+git clone https://github.com/FiftyfiveTech/SOLID_Workshop.git
 
 # Navigate into the root of the repo.
-cd cleancodeworkshop
+cd SOLID_Workshop
 
 # Fork the repo.
 gh repo fork 
