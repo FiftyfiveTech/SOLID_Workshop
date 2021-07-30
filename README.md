@@ -12,18 +12,15 @@
 
 ## About the Workshop 
 
+We are here with a workshop which aims at providing you an understanding of SOLID principles via examples taken from various sources. This workshop will help you make code cleaner, more flexible, and easier to change.
 
-We are here with a workshop which aims at providing you an understanding of Clean Code via examples taken from various sources. This workshop will help you differentiate between "clean" and "dirty" code.
-
-We will get our hands dirty by diving into some "dirty" code snippets and "cleaning" them with our learning. We will also see why some approaches are better than the others and try to develop a better understanding of all the principles of "Clean Code".
+We will have a look at how SOLID principles help you in building beautifully designed code bases that stand the test of time. Then we will get our hands dirty by diving into some code snippets and applying SOLID principles to them with our learning.
 
 ## Takeaways from this Workshop
 
 * Better understanding on SOLID principles.
 * Choose better object oriented approaches when developing.
 * Fun!
-
-<img align='bottom' width="100%" height="100%" src="https://www.cleancodefactory.de/Content/Images/Factory_slow.gif" />
 
 ## Structure of the Repository
 
