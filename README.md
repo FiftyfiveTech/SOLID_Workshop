@@ -19,9 +19,8 @@ We will get our hands dirty by diving into some "dirty" code snippets and "clean
 
 ## Takeaways from this Workshop
 
-* Better understanding on clean coding practices.
-* Choose better approach when developing.
-* Ability to differentiate between different approaches.
+* Better understanding on SOLID principles.
+* Choose better object oriented approaches when developing.
 * Fun!
 
 <img align='bottom' width="100%" height="100%" src="https://www.cleancodefactory.de/Content/Images/Factory_slow.gif" />
